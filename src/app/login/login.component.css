@@ -1,0 +1,15 @@
+.bg{
+    background: url(https://images.pexels.com/photos/3183132/pexels-photo-3183132.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) no-repeat;
+    background-size: cover;
+    height: 550px;
+}
+
+/* form{
+    background-color: rgba(0,0,0, 0.4);
+} */
+
+
+.formbg{
+    background-color: rgba(0,0,0, 0.4); /* Black w/opacity/see-through */
+    
+}

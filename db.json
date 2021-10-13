@@ -1,0 +1,433 @@
+{
+  "signup": [
+    {
+      "fullName": "Dolores odio reprehe",
+      "email": "Magni sit voluptas ",
+      "pswd": "Pa$$w0rd!",
+      "pswd1": "Pa$$w0rd!",
+      "contact": "Excepteur aut sed su",
+      "address": "Provident accusamus",
+      "dropdown": "USA",
+      "gender": "female",
+      "hobbies": [],
+      "id": 1
+    },
+    {
+      "fullName": "Ut sunt tempore mi",
+      "email": "In et a aute recusan",
+      "pswd": "Pa$$w0rd!",
+      "pswd1": "Pa$$w0rd!",
+      "contact": "Autem veniam repell",
+      "address": "Qui debitis ut paria",
+      "dropdown": "UK",
+      "gender": "male",
+      "hobbies": [
+        "travelling"
+      ],
+      "id": 2
+    },
+    {
+      "fullName": "bhupender singh",
+      "email": "singh123@gmail.com",
+      "pswd": "121212",
+      "pswd1": "121212",
+      "contact": "98584584747",
+      "address": "xyz",
+      "dropdown": "India",
+      "gender": "male",
+      "hobbies": [
+        "playing",
+        "singing",
+        "travelling"
+      ],
+      "id": 3
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "fullName": "Veniam voluptate co",
+      "email": "Tenetur autem eaque ",
+      "pswd": "Pa$$w0rd!",
+      "pswd1": "Pa$$w0rd!",
+      "contact": "Labore sed perferend",
+      "Address": "",
+      "dropdown": "UK",
+      "gender": "female",
+      "hobbies": [],
+      "id": 2
+    },
+    {
+      "fullName": "Consectetur ea saepe",
+      "email": "Beatae placeat maio",
+      "pswd": "Pa$$w0rd!",
+      "pswd1": "Pa$$w0rd!",
+      "contact": "Saepe incidunt solu",
+      "Address": "",
+      "dropdown": "UK",
+      "gender": "female",
+      "hobbies": [],
+      "id": 3
+    },
+    {
+      "fullName": "Esse sed atque rem ",
+      "email": "Laboris sint dolore",
+      "pswd": "Pa$$w0rd!",
+      "pswd1": "Pa$$w0rd!",
+      "contact": "Odio non ut veniam ",
+      "address": "Aliquam nulla omnis ",
+      "dropdown": "UK",
+      "gender": "female",
+      "hobbies": [],
+      "id": 4
+    },
+    {
+      "fullName": "Voluptate eligendi n",
+      "email": "Aperiam nihil ration",
+      "pswd": "Pa$$w0rd!",
+      "pswd1": "Pa$$w0rd!",
+      "contact": "Quia alias voluptate",
+      "address": "Qui maiores cum cons",
+      "dropdown": "UK",
+      "gender": "male",
+      "hobbies": [
+        "playing"
+      ],
+      "id": 5
+    },
+    {
+      "fullName": "Delectus voluptatem",
+      "email": "Ducimus consequatur",
+      "pswd": "Pa$$w0rd!",
+      "pswd1": "Pa$$w0rd!",
+      "contact": "Omnis tempore qui u",
+      "address": "In accusantium nesci",
+      "dropdown": "India",
+      "gender": "female",
+      "hobbies": [
+        "travelling"
+      ],
+      "id": 6
+    },
+    {
+      "fullName": "Bhupender Singh",
+      "email": "singh@gmail.com",
+      "pswd": "121212",
+      "pswd1": "121212",
+      "contact": "7878789958",
+      "address": "xyz",
+      "dropdown": "India",
+      "gender": "male",
+      "hobbies": [
+        "playing",
+        "singing"
+      ],
+      "id": 7
+    },
+    {
+      "fullName": "Recusandae Odio rat",
+      "email": "Veniam rerum saepe ",
+      "pswd": "Pa$$w0rd!",
+      "pswd1": "Pa$$w0rd!",
+      "contact": "Non dolorem sunt qua",
+      "address": "Mollit repellendus ",
+      "dropdown": "USA",
+      "gender": "male",
+      "hobbies": [
+        "playing",
+        "singing",
+        "travelling"
+      ],
+      "id": 8
+    },
+    {
+      "fullName": "Voluptatibus natus s",
+      "email": "Accusamus cillum dol",
+      "pswd": "Pa$$w0rd!",
+      "pswd1": "Pa$$w0rd!",
+      "contact": "Officia distinctio ",
+      "address": "Aut vitae non ut eos",
+      "dropdown": "India",
+      "gender": "female",
+      "hobbies": [
+        "playing",
+        "singing",
+        "travelling"
+      ],
+      "id": 9
+    },
+    {
+      "fullName": "Inventore non sed se",
+      "email": "Fugit alias dolor q",
+      "pswd": "Pa$$w0rd!",
+      "pswd1": "Pa$$w0rd!",
+      "contact": "Dolorem laboriosam ",
+      "address": "Quam laboriosam at ",
+      "dropdown": "USA",
+      "gender": "female",
+      "hobbies": [],
+      "id": 10
+    },
+    {
+      "fullName": "Tempore ut commodo ",
+      "email": "Cum qui culpa repudi",
+      "pswd": "Pa$$w0rd!",
+      "pswd1": "Pa$$w0rd!",
+      "contact": "Irure est corporis p",
+      "address": "Vel non dolor quibus",
+      "dropdown": "India",
+      "gender": "female",
+      "hobbies": [
+        "singing",
+        "travelling"
+      ],
+      "id": 11
+    },
+    {
+      "fullName": "In velit excepteur ",
+      "email": "Ut error quisquam qu",
+      "pswd": "Pa$$w0rd!",
+      "pswd1": "Pa$$w0rd!",
+      "contact": "Sit iure elit in of",
+      "address": "Suscipit consequatur",
+      "dropdown": "India",
+      "gender": "female",
+      "hobbies": [
+        "travelling"
+      ],
+      "id": 12
+    },
+    {
+      "fullName": "Facilis consequuntur",
+      "email": "Veniam aliquid illo",
+      "pswd": "Pa$$w0rd!",
+      "pswd1": "Pa$$w0rd!",
+      "contact": "Excepteur reprehende",
+      "address": "Minima omnis natus i",
+      "dropdown": "USA",
+      "gender": "male",
+      "hobbies": [
+        "travelling"
+      ],
+      "id": 13
+    },
+    {
+      "fullName": "Nisi quo ipsum illum",
+      "email": "Aut culpa quis ea e",
+      "pswd": "Pa$$w0rd!",
+      "pswd1": "Pa$$w0rd!",
+      "contact": "Debitis repudiandae ",
+      "address": "Qui recusandae Aliq",
+      "dropdown": "USA",
+      "gender": "male",
+      "hobbies": [
+        "playing"
+      ],
+      "id": 14
+    },
+    {
+      "fullName": "Pariatur Blanditiis",
+      "email": "Ad pariatur Id dol",
+      "pswd": "Pa$$w0rd!",
+      "pswd1": "Pa$$w0rd!",
+      "contact": "Dolore et qui aute v",
+      "address": "Veniam deleniti eni",
+      "dropdown": "India",
+      "gender": "male",
+      "hobbies": [
+        "playing"
+      ],
+      "id": 15
+    },
+    {
+      "fullName": "Repudiandae ea tempo",
+      "email": "Reiciendis irure est",
+      "pswd": "Pa$$w0rd!",
+      "pswd1": "Pa$$w0rd!",
+      "contact": "Quis cupiditate est",
+      "address": "Hic ea ut et laboris",
+      "dropdown": "India",
+      "gender": "male",
+      "hobbies": [
+        "playing"
+      ],
+      "id": 16
+    },
+    {
+      "fullName": "Non recusandae Duci",
+      "email": "Quis sunt quas eos",
+      "pswd": "Pa$$w0rd!",
+      "pswd1": "Pa$$w0rd!",
+      "contact": "Placeat cum perspic",
+      "address": "Alias quis ut velit ",
+      "dropdown": "India",
+      "gender": "female",
+      "hobbies": [
+        "travelling"
+      ],
+      "id": 17
+    },
+    {
+      "fullName": "Dolore veritatis sin",
+      "email": "Duis maxime temporib",
+      "pswd": "Pa$$w0rd!",
+      "pswd1": "Pa$$w0rd!",
+      "contact": "Aut dolorum animi e",
+      "address": "Eius temporibus non ",
+      "dropdown": "India",
+      "gender": "male",
+      "hobbies": [],
+      "id": 18
+    },
+    {
+      "fullName": "Ad ad delectus est ",
+      "email": "Necessitatibus et ea",
+      "pswd": "Pa$$w0rd!",
+      "pswd1": "Pa$$w0rd!",
+      "contact": "Aut consectetur culp",
+      "address": "Commodo necessitatib",
+      "dropdown": "India",
+      "gender": "female",
+      "hobbies": [
+        "playing",
+        "singing"
+      ],
+      "id": 19
+    },
+    {
+      "fullName": "Aliqua Iusto a et o",
+      "email": "Minus anim dolorum a",
+      "pswd": "Pa$$w0rd!",
+      "pswd1": "Pa$$w0rd!",
+      "contact": "Quibusdam ut volupta",
+      "address": "Totam porro sit id",
+      "dropdown": "USA",
+      "gender": "female",
+      "hobbies": [
+        "travelling"
+      ],
+      "id": 20
+    },
+    {
+      "fullName": "Voluptas ex accusant",
+      "email": "Cupidatat aliquid co",
+      "pswd": "Pa$$w0rd!",
+      "pswd1": "Pa$$w0rd!",
+      "contact": "Amet et amet ipsa",
+      "address": "Temporibus est cons",
+      "dropdown": "India",
+      "gender": "male",
+      "hobbies": [
+        "playing",
+        "singing",
+        "travelling"
+      ],
+      "id": 21
+    },
+    {
+      "fullName": "Soluta omnis corrupt",
+      "email": "Enim sint voluptate ",
+      "pswd": "Pa$$w0rd!",
+      "pswd1": "Pa$$w0rd!",
+      "contact": "Pariatur Quae simil",
+      "address": "Explicabo Aut aut e",
+      "dropdown": "UK",
+      "gender": "female",
+      "hobbies": [
+        "travelling"
+      ],
+      "id": 22
+    },
+    {
+      "fullName": "Iste sapiente quae a",
+      "email": "Et sunt voluptatibus",
+      "pswd": "Pa$$w0rd!",
+      "pswd1": "Pa$$w0rd!",
+      "contact": "Perferendis consecte",
+      "address": "Necessitatibus est n",
+      "dropdown": "India",
+      "gender": "male",
+      "hobbies": [
+        "travelling"
+      ],
+      "id": 23
+    },
+    {
+      "fullName": "Quia aut soluta aliq",
+      "email": "Nihil accusamus repr",
+      "pswd": "Pa$$w0rd!",
+      "pswd1": "Pa$$w0rd!",
+      "contact": "Eiusmod pariatur In",
+      "address": "Nihil sed enim beata",
+      "dropdown": "India",
+      "gender": "male",
+      "hobbies": [],
+      "id": 24
+    },
+    {
+      "fullName": "Qui odio officiis di",
+      "email": "Natus cupidatat veli",
+      "pswd": "Pa$$w0rd!",
+      "pswd1": "Pa$$w0rd!",
+      "contact": "In aperiam corporis ",
+      "address": "Temporibus dolore de",
+      "dropdown": "India",
+      "gender": "female",
+      "hobbies": [],
+      "id": 25
+    },
+    {
+      "fullName": "Facere rerum ipsum n",
+      "email": "Delectus blanditiis",
+      "pswd": "Pa$$w0rd!",
+      "pswd1": "Pa$$w0rd!",
+      "contact": "Magnam do quas dolor",
+      "address": "Doloribus aut veniam",
+      "dropdown": "India",
+      "gender": "male",
+      "hobbies": [
+        "singing",
+        "travelling"
+      ],
+      "id": 26
+    },
+    {
+      "fullName": "In quibusdam sapient",
+      "email": "Laboris dolores eaqu",
+      "pswd": "Pa$$w0rd!",
+      "pswd1": "Pa$$w0rd!",
+      "contact": "Excepteur ut ipsum t",
+      "address": "Quia facilis totam n",
+      "dropdown": "UK",
+      "gender": "female",
+      "hobbies": [],
+      "id": 27
+    },
+    {
+      "fullName": "",
+      "email": "",
+      "pswd": "",
+      "pswd1": "",
+      "contact": "",
+      "address": "",
+      "dropdown": "",
+      "gender": "",
+      "hobbies": [],
+      "id": 28
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

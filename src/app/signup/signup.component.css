@@ -1,0 +1,10 @@
+.bg{
+    background: url(https://images.pexels.com/photos/3183198/pexels-photo-3183198.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260) no-repeat;
+    background-size: cover;
+    height: auto;
+}
+
+
+.formbg{
+    background-color: rgba(0,0,0, 0.4); /* Black w/opacity/see-through */
+}
